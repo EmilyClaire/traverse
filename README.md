@@ -4,6 +4,6 @@ traVerse is a journalling app that lets users explore a dynamic, dreamlike terra
 
 We used the IBM Watson AlchemyLanguage API to analyze the user's journal and produce numerical data for the level of joy, fear, and anger in the entries, and also discover relevant keywords. That data is then used to render peaks and valleys which signify the intensity of the emotions for that entry. In addition, the world displays keywords that serve as landmarks while the user walks through their mind. We created the three dimensional world of traVerse with the JavaScript library Three.js which works with the WebGL API.
 
-Please check out the site at [traverse.live](http://www.traverse.live)
+Please check out the site at [traverse.live](https://gha-traverse.herokuapp.com/)
 
 
